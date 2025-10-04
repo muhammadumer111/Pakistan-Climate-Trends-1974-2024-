@@ -23,6 +23,10 @@ A **packaged version of the dashboard** (`.twbx`) is included in this repository
 3. Open the packaged Tableau dashboard to explore climate trends interactively.
 4. Apply filters for years or specific climate parameters for detailed insights.
 
+[Dashboard Preview](https://github.com/muhammadumer111/Pakistan-Climate-Trends-1974-2024-/blob/main/Dashboard%201.png)
+
+[Download the dashboard](https://github.com/muhammadumer111/Pakistan-Climate-Trends-1974-2024-/blob/main/pak%20climate%20dashboard_v2025.1.twbx)
+
 ## Data Source
 - **World Bank:** Historical climate data for Pakistan (1974–2024)
 
